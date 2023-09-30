@@ -1,1 +1,2 @@
-Git Repository for Checkbook Project in Python
+
+Git repository for Checkbook Project in Python 
